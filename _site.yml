@@ -6,3 +6,5 @@ navbar:
       href: index.html
     - text: "CLT"
       href: CLT_2.html
+    - text: "DDS Project 2: Attrition and Income"
+      href: Employee_Attrition_and_Income.html
